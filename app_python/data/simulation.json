@@ -1,0 +1,259 @@
+{
+  "poids": {
+    "couverture": 0.3,
+    "infrastructures": 0.3,
+    "enseignants": 0.25,
+    "resultats": 0.15
+  },
+  "piliers": {
+    "couverture": ["densite_etab_100km2", "completude_offre", "jardins_100_primaires"],
+    "infrastructures": ["toilettes_100_etab", "pct_toilettes_ameliorees", "pct_batiments_recents", "batiments_par_etab", "pct_terrain_sport", "biblio_100_etab"],
+    "enseignants": ["ens_100_jardins", "enseignants_100_etab"],
+    "resultats": ["completude_offre", "ens_100_jardins", "toilettes_100_etab", "pct_batiments_recents"]
+  },
+  "niveaux": {
+    "commune": {
+      "stats_variables": [
+        {
+          "variable": "densite_etab_100km2",
+          "moyenne": 138.2658,
+          "ecart_type": 329.5776
+        },
+        {
+          "variable": "completude_offre",
+          "moyenne": 99.7863,
+          "ecart_type": 2.3113
+        },
+        {
+          "variable": "jardins_100_primaires",
+          "moyenne": 51.2103,
+          "ecart_type": 17.4626
+        },
+        {
+          "variable": "toilettes_100_etab",
+          "moyenne": 67.9821,
+          "ecart_type": 19.4197
+        },
+        {
+          "variable": "pct_toilettes_ameliorees",
+          "moyenne": 44.0863,
+          "ecart_type": 21.4704
+        },
+        {
+          "variable": "pct_batiments_recents",
+          "moyenne": 56.7188,
+          "ecart_type": 13.9506
+        },
+        {
+          "variable": "batiments_par_etab",
+          "moyenne": 1.9119,
+          "ecart_type": 0.3378
+        },
+        {
+          "variable": "pct_terrain_sport",
+          "moyenne": 33.6085,
+          "ecart_type": 12.2761
+        },
+        {
+          "variable": "biblio_100_etab",
+          "moyenne": 0,
+          "ecart_type": 1
+        },
+        {
+          "variable": "ens_100_jardins",
+          "moyenne": 193,
+          "ecart_type": 75.4992
+        },
+        {
+          "variable": "enseignants_100_etab",
+          "moyenne": 52.1427,
+          "ecart_type": 23.189
+        }
+      ],
+      "bornes_piliers": [
+        {
+          "pilier": "couverture",
+          "minimum": -1.2816,
+          "maximum": 1.5702
+        },
+        {
+          "pilier": "infrastructures",
+          "minimum": -0.6727,
+          "maximum": 0.8599
+        },
+        {
+          "pilier": "enseignants",
+          "minimum": -2.3743,
+          "maximum": 2.5
+        },
+        {
+          "pilier": "resultats",
+          "minimum": -0.8237,
+          "maximum": 1.1148
+        }
+      ]
+    },
+    "prefecture": {
+      "stats_variables": [
+        {
+          "variable": "densite_etab_100km2",
+          "moyenne": 72.0256,
+          "ecart_type": 197.4132
+        },
+        {
+          "variable": "completude_offre",
+          "moyenne": 100,
+          "ecart_type": 1
+        },
+        {
+          "variable": "jardins_100_primaires",
+          "moyenne": 50.8231,
+          "ecart_type": 14.741
+        },
+        {
+          "variable": "toilettes_100_etab",
+          "moyenne": 67.8051,
+          "ecart_type": 17.3569
+        },
+        {
+          "variable": "pct_toilettes_ameliorees",
+          "moyenne": 42.9949,
+          "ecart_type": 16.3928
+        },
+        {
+          "variable": "pct_batiments_recents",
+          "moyenne": 57.4923,
+          "ecart_type": 9.8929
+        },
+        {
+          "variable": "batiments_par_etab",
+          "moyenne": 1.9356,
+          "ecart_type": 0.2681
+        },
+        {
+          "variable": "pct_terrain_sport",
+          "moyenne": 33.4974,
+          "ecart_type": 9.7714
+        },
+        {
+          "variable": "biblio_100_etab",
+          "moyenne": 0,
+          "ecart_type": 1
+        },
+        {
+          "variable": "ens_100_jardins",
+          "moyenne": 193.1308,
+          "ecart_type": 85.8064
+        },
+        {
+          "variable": "enseignants_100_etab",
+          "moyenne": 52.7,
+          "ecart_type": 24.3493
+        }
+      ],
+      "bornes_piliers": [
+        {
+          "pilier": "couverture",
+          "minimum": -0.724,
+          "maximum": 1.2783
+        },
+        {
+          "pilier": "infrastructures",
+          "minimum": -0.5876,
+          "maximum": 0.7007
+        },
+        {
+          "pilier": "enseignants",
+          "minimum": -2.2076,
+          "maximum": 2.5
+        },
+        {
+          "pilier": "resultats",
+          "minimum": -0.9399,
+          "maximum": 0.8468
+        }
+      ]
+    },
+    "region": {
+      "stats_variables": [
+        {
+          "variable": "densite_etab_100km2",
+          "moyenne": 35.08,
+          "ecart_type": 39.2664
+        },
+        {
+          "variable": "completude_offre",
+          "moyenne": 100,
+          "ecart_type": 1
+        },
+        {
+          "variable": "jardins_100_primaires",
+          "moyenne": 52.5,
+          "ecart_type": 6.8341
+        },
+        {
+          "variable": "toilettes_100_etab",
+          "moyenne": 69.92,
+          "ecart_type": 13.3209
+        },
+        {
+          "variable": "pct_toilettes_ameliorees",
+          "moyenne": 45.6,
+          "ecart_type": 12.1715
+        },
+        {
+          "variable": "pct_batiments_recents",
+          "moyenne": 57.24,
+          "ecart_type": 3.5275
+        },
+        {
+          "variable": "batiments_par_etab",
+          "moyenne": 1.908,
+          "ecart_type": 0.2309
+        },
+        {
+          "variable": "pct_terrain_sport",
+          "moyenne": 31.88,
+          "ecart_type": 8.2875
+        },
+        {
+          "variable": "biblio_100_etab",
+          "moyenne": 0,
+          "ecart_type": 1
+        },
+        {
+          "variable": "ens_100_jardins",
+          "moyenne": 199.36,
+          "ecart_type": 43.8701
+        },
+        {
+          "variable": "enseignants_100_etab",
+          "moyenne": 56.3,
+          "ecart_type": 12.4067
+        }
+      ],
+      "bornes_piliers": [
+        {
+          "pilier": "couverture",
+          "minimum": -0.6111,
+          "maximum": 0.7797
+        },
+        {
+          "pilier": "infrastructures",
+          "minimum": -0.2122,
+          "maximum": 0.1978
+        },
+        {
+          "pilier": "enseignants",
+          "minimum": -1.1987,
+          "maximum": 1.4717
+        },
+        {
+          "pilier": "resultats",
+          "minimum": -0.489,
+          "maximum": 0.6032
+        }
+      ]
+    }
+  }
+}

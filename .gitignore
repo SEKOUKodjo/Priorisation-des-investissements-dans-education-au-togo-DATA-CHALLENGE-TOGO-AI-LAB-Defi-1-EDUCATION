@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+rsconnect/
+nohup.out
+
+# Cartes générées à la volée par l'app Python (regénérées au démarrage)
+app_python/www/cartes/
+__pycache__/
+*.pyc

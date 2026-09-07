@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Photo par défaut : déposez votre photo dans app/www/auteur_photo.jpg pour la remplacer -->
+  <circle cx="100" cy="100" r="100" fill="#E8F2ED"/>
+  <circle cx="100" cy="78" r="34" fill="#006A4E"/>
+  <path d="M100 118 c-38 0 -62 22 -62 50 l0 32 124 0 0 -32 c0 -28 -24 -50 -62 -50z" fill="#006A4E"/>
+  <text x="100" y="196" text-anchor="middle" font-family="Arial" font-size="13" fill="#00563F">Votre photo ici</text>
+</svg>

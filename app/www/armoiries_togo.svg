@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Écusson placeholder aux couleurs du Togo : remplacez par les armoiries officielles -->
+  <circle cx="100" cy="100" r="96" fill="#FFF8E1" stroke="#006A4E" stroke-width="6"/>
+  <path d="M100 18 a82 82 0 0 1 0 164 a82 82 0 0 1 0 -164z" fill="none"/>
+  <rect x="40" y="52" width="120" height="26" rx="6" fill="#006A4E"/>
+  <rect x="40" y="88" width="120" height="26" rx="6" fill="#FFCE00"/>
+  <rect x="40" y="124" width="120" height="26" rx="6" fill="#D21034"/>
+  <path fill="#FFFFFF" stroke="#D21034" stroke-width="2"
+        d="M100 74l8.2 25.2h26.5l-21.4 15.6 8.2 25.2-21.5-15.6-21.5 15.6 8.2-25.2-21.4-15.6h26.5z"/>
+  <text x="100" y="182" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold" fill="#00563F">RÉPUBLIQUE TOGOLAISE</text>
+</svg>

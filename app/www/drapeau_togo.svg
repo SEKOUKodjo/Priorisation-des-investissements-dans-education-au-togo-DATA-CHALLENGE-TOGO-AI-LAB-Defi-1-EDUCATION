@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 809 500" width="809" height="500">
+  <!-- Drapeau de la République Togolaise (placeholder : remplacez par votre logo) -->
+  <rect width="809" height="500" fill="#FFCE00"/>
+  <rect width="809" height="100" y="0" fill="#006A4E"/>
+  <rect width="809" height="100" y="200" fill="#006A4E"/>
+  <rect width="809" height="100" y="400" fill="#006A4E"/>
+  <rect width="300" height="300" fill="#D21034"/>
+  <path fill="#FFFFFF" d="M150 60l21.3 65.5h68.9l-55.7 40.5 21.3 65.5-55.8-40.5-55.8 40.5 21.3-65.5-55.7-40.5h68.9z"/>
+</svg>

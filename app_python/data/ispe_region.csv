@@ -1,0 +1,6 @@
+"region","deficit_couverture","deficit_infrastructures","deficit_enseignants","deficit_resultats","contrib_couverture","contrib_infrastructures","contrib_enseignants","contrib_resultats","ispe","rang","niveau_priorite","classe","silhouette"
+"Centrale",84.7,11.7,0,0,87.9,12.1,0,0,28.9,5,"Satisfaisant",2,NA
+"Kara",43.6,94.2,52,100,18.9,40.8,18.7,21.6,69.3,1,"Très prioritaire",2,NA
+"Maritime",0,100,100,91.1,0,43.7,36.4,19.9,68.7,3,"À surveiller",3,NA
+"Plateaux",100,35.3,72.2,69.2,43.5,15.3,26.2,15,69,2,"Prioritaire",1,NA
+"Savanes",52,0,51.4,15.8,50.6,0,41.7,7.7,30.8,4,"Modéré",4,NA

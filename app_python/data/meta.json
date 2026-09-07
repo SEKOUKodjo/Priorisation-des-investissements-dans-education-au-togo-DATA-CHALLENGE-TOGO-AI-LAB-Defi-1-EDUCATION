@@ -1,0 +1,15 @@
+{
+  "date_generation": "19/07/2026 23:58",
+  "nb_etablissements": 15454,
+  "nb_creches": 35,
+  "nb_toilettes": 10228,
+  "nb_batiments": 28055,
+  "nb_terrains": 3708,
+  "nb_bibliotheques": 0,
+  "nb_enseignants_prescolaire": 7802,
+  "nb_regions": 5,
+  "nb_prefectures": 39,
+  "nb_communes": 117,
+  "sources": ["geodata.gouv.tg — Établissements scolaires, toilettes, bâtiments, terrains de sport, crèches, bibliothèques", "opendata.gouv.tg — Éducation et résultats scolaires, enseignants du préscolaire par inspection", "UNESCO — Institut de Statistique (ISU) : indicateurs SDG4, OPRI et démographie", "geoBoundaries (gbOpen) — Frontières administratives du Togo"],
+  "note_methodologique": "Les indicateurs territoriaux sont calculés à partir des bases géolocalisées officielles, agrégés aux échelons région, préfecture et commune. Une ACP suivie d'une classification hiérarchique (Ward) consolidée par K-means regroupe les territoires en profils homogènes. L'ISPE (0-100) combine les déficits des quatre dimensions : couverture scolaire (30%), infrastructures essentielles (30%), capacité enseignante (25%) et conditions de réussite scolaire (15%). Les résultats scolaires territorialisés n'étant pas publiés en données ouvertes, la quatrième dimension mobilise un indice de conditions de réussite (encadrement, complétude du cycle, hygiène, état du bâti), complété par les résultats nationaux officiels affichés dans le module Priorisation."
+}
